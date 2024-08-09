@@ -2,6 +2,7 @@
 
 Apaixonado e curioso pela tecnologia, buscando sempre melhorias em processos por meio da programação.
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-eduardo-jansen-240a02194/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_jansen?igsh=MTEzaXNxY3ExNXplMg%3D%3D&utm_source=qr)
 
 
